@@ -27,7 +27,7 @@ Label_APOGEE_payne_LASP.npy
 
 -estimation catalog
 ```
-LASSO-MLPNet.csv
+LASSO_MLPNet.csv
 ```
 
 
